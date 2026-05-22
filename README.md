@@ -24,6 +24,9 @@ Premium digital studio focused on modern websites, SaaS platforms and AI-powered
 - OpenAI API
 
 ---
+## Preview
+
+![Preview](./preview.png)
 
 ## Live Website
 
